@@ -1,1 +1,1 @@
-Projeyi anlat socket projesi
+Java Socket
